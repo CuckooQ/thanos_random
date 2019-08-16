@@ -1,0 +1,22 @@
+.remain {
+    width: 50%;
+    height: 40%;
+    right: 20px;
+    position: absolute;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    z-index: 999;
+}
+
+.reamin_button {
+    margin-top: 10px;
+}
+
+.remain_plus {
+    margin-left: 10px !important;
+}
+
+.remain_minus {
+    margin-left: 25px !important;
+}
